@@ -12,4 +12,4 @@
 ## License Information
 <p>Licensed under the <a href="https://github.com/avivafischer/Pac-Man-2.0/blob/main/LICENSE">MIT License</a></p>
 
-<p><a href="https://avivafischer.github.io/Pac-Man-2.0/">View Deployment</a></p>
+<p><a href="https://avivafischer.github.io/Pac-Man-2.0">View Deployment</a></p>
