@@ -1,4 +1,4 @@
-# Pac-Man-2.0
+# Pac-Man 2.0
 
 ## Description
 <p>Pac Man Factory: Create buttons to produce Pac Mans on the screen keeping track of the position and velocity of each Pac Man. Additionally, the Pac Man needs to bounce off any wall it hits.</p>
